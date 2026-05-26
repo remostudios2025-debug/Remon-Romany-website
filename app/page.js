@@ -1,0 +1,18 @@
+export default function Page() {
+  return (
+    <div
+      style={{
+        background: "black",
+        color: "white",
+        height: "100vh",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        fontSize: "40px",
+        fontFamily: "sans-serif"
+      }}
+    >
+      REMON ROMANY WEBSITE 🚀
+    </div>
+  );
+}
